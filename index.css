@@ -1,0 +1,36 @@
+.container {
+  background-color: black;
+}
+
+.container .content1 {
+  width: 300px;
+  height: 300px;
+  background-color: blanchedalmond;
+}
+
+.container .content1 .left-box {
+  width: 300px;
+  height: 300px;
+  background-color: peru;
+}
+
+.container .content1 .right-box {
+  color: 20px;
+}
+
+.container .content2 {
+  color: 30px;
+}
+
+.container .content2 .left-box {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+}
+
+.container .content2 .right-box {
+  width: 300px;
+  height: 300px;
+  background-color: #683d3d;
+}
+/*# sourceMappingURL=index.css.map */
